@@ -1,0 +1,9 @@
+addict
+future
+lmdb
+pyyaml
+scikit-image
+tb-nightly
+yapf
+lpips
+gdown
