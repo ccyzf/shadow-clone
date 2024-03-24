@@ -1,0 +1,12 @@
+安装wav2lip
+conda create --name wav2lip python=3.7
+conda activate wav2lip 
+conda install pytorch==1.8.0 torchvision==0.9.0 torchaudio==0.8.0 cudatoolkit=11.1 -c pytorch -c conda-forge
+pip install -r requirements.txt
+
+
+后续安装codeformer
+cd CodeFormer-master
+pip install -r requirements.txt
+python basicsr/setup.py develop
+pip install ffmpeg-python
