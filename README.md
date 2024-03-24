@@ -1,5 +1,4 @@
 # shadow-clone
-# Shadow-Clone Algorithm README
 
 ## Introduction
 
